@@ -43,7 +43,7 @@ Research Experience
 Key Projects
 ======
 * **MachSpeed: Next-Generation High-Speed SerDes** — SRC / DARPA JUMP 2.0 (CUbiC) (Aug 2025 – Present)
-  * Researching and developing "MachSpeed," an advanced high-speed wireline transceiver architecture targeting ultra-high bandwidth and extreme channel loss (55+ dB) for next-generation interconnects
+  * Researching and developing "MachSpeed," an advanced high-speed wireline transceiver architecture targeting extreme high insertion loss channels for next-generation interconnects
   * Designing machine-learning-assisted, equalizer-free signaling techniques to optimize power efficiency and signal integrity
 * **PIM (Process-In-Memory) Semiconductor Design** — Ministry of Science and ICT (2022 – 2023)
   * Participated in national research center initiatives for next-generation PIM architectures
