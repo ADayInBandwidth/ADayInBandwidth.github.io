@@ -31,7 +31,7 @@ Research Experience
 ======
 * **Graduate Research Assistant**, Oregon State University, Corvallis, OR (Aug 2025 – Present)
   * Researching and designing advanced machine-learning-based, equalizer-free high-speed interfaces
-  * [TSMC 28nm] Led tape-out of an extreme long-reach channel wireline transceiver (May 2026)
+  * Led tape-out of a wireline transceiver (Under Embargo)
   * Participated in the Center for Ubiquitous Connectivity (CUbiC) under the DARPA JUMP 2.0 program to advance next-generation interconnect and signaling technologies
 
 * **Graduate Student Researcher**, Circuit and System Design Laboratory, Seoul, South Korea (Jan 2020 – Dec 2023)

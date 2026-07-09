@@ -9,14 +9,14 @@ redirect_from:
 
 I am a Ph.D. student in Electrical Engineering and Computer Science at
 **Oregon State University**, advised by **Prof. Tejasvi Anand**. My research
-sits at the intersection of high-speed wireline communication and machine
-learning, where I design **equalizer-free, ML-assisted high-speed interfaces**
-for next-generation interconnects.
+focuses on **transceiver design targeting extreme high insertion loss**
+channels, where I develop **equalizer-free, machine-learning-assisted
+high-speed interfaces** for next-generation interconnects.
 
-My current work focuses on serial links over extreme channel loss (55+ dB),
-reflective-channel-compensated memory interfaces, and machine-learning-assisted
-high-speed interface design. I am part of the **Center for Ubiquitous
-Connectivity (CUbiC)**, supported by SRC and the **DARPA JUMP 2.0** program.
+I am part of the **Center for Ubiquitous Connectivity (CUbiC)**, supported by
+SRC and the **DARPA JUMP 2.0** program, where I work on reflective-channel-
+compensated memory interfaces and ML-assisted high-speed signaling for serial
+links operating under extreme channel loss.
 
 Research Interests
 ======

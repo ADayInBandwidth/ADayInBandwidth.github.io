@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+<p>Selected chip design and research projects. Listed by project number.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign ordered_portfolio = site.portfolio | sort: 'date' %}
+{% for post in ordered_portfolio %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
-
