@@ -19,7 +19,7 @@ Research Interests
 - Next-generation wireline transceiver design
 - Machine learning-assisted, equalizer-free high-speed signaling
 - Mixed-signal IC design (high-speed ADCs, SRAM)
-- Hardware security (true random number generators)
+- Hardware security (TRNG, PUF, FHE)
 - GPU-accelerated electromagnetic simulation (FDTD/FDFD)
 
 Background

@@ -25,7 +25,7 @@ Technical Skills
 * **Programming & Compute:** C++, CUDA, Python, MATLAB, PyTorch, C, Linux, C#, Rust
 * **Hardware Description:** Verilog, SystemVerilog
 * **EDA & Simulation Tools:** Cadence Virtuoso (ADE-L/XL, Maestro, Layout), Synopsys (VCS, Design Compiler, IC Compiler 1/2, PrimeTime), Mentor Calibre (DRC, LVS, xRC), KiCad
-* **Core Competencies:** High-speed SerDes architecture, GPU-accelerated EM simulation (FDTD/FDFD), mixed-signal IC design, hardware security (TRNG)
+* **Core Competencies:** High-speed SerDes architecture, GPU-accelerated EM simulation (FDTD/FDFD), mixed-signal IC design, hardware security (TRNG, PUF, FHE)
 
 Research Experience
 ======
