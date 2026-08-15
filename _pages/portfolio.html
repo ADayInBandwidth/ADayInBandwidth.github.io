@@ -18,13 +18,9 @@ author_profile: true
     {% if post.tapeout %}
       <p class="page__meta" style="margin-top: 0;"><i class="fa fa-fw fa-microchip" aria-hidden="true"></i> <strong>Taped-out:</strong> {{ post.tapeout }}</p>
     {% endif %}
-    {% if post.header.teaser %}
-      <a href="{{ base_path }}{{ post.url }}">
-        <img src="{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}" alt="{{ post.title }}" style="width: 100%; max-width: 640px; height: auto; border-radius: 4px; display: block; margin: 0.4em 0;">
-      </a>
-    {% endif %}
     {% if post.excerpt %}
       <p class="archive__item-excerpt" style="margin-top: 0.5em;">{{ post.excerpt | markdownify }}</p>
     {% endif %}
+    <p style="margin-top: 0.4em;"><a href="{{ base_path }}{{ post.url }}">View project &rsaquo;</a></p>
   </div>
 {% endfor %}

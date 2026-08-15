@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D. in Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR, USA, 2025 – Present
   * Advisor: Prof. Tejasvi Anand
-  * Research focus: High channel loss serial links, reflective-channel-compensated memory interfaces, machine-learning-assisted high-speed interface design
+  * Research focus: Next-generation wireline transceiver design
 * M.S. in Electronic, Information and Communication Engineering, Konkuk University, Seoul, South Korea, 2022 – 2024
   * Thesis: "A High-Performance True Random Number Generator for Next-Generation Secure Systems"
 * B.S. in Electrical and Electronics Engineering (Top Honors), Konkuk University, Seoul, South Korea, 2016 – 2022
@@ -43,7 +43,7 @@ Research Experience
 Key Projects
 ======
 * **MachSpeed: Next-Generation High-Speed SerDes** — SRC / DARPA JUMP 2.0 (CUbiC) (Aug 2025 – Present)
-  * Researching and developing "MachSpeed," an advanced high-speed wireline transceiver architecture targeting extreme high insertion loss channels for next-generation interconnects
+  * Researching and developing "MachSpeed," an advanced next-generation high-speed wireline transceiver architecture for future interconnects
   * Designing machine-learning-assisted, equalizer-free signaling techniques to optimize power efficiency and signal integrity
 * **PIM (Process-In-Memory) Semiconductor Design** — Ministry of Science and ICT (2022 – 2023)
   * Participated in national research center initiatives for next-generation PIM architectures
