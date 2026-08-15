@@ -84,3 +84,4 @@ References
 ======
 * **Prof. Tejasvi Anand** — Ph.D. Advisor, Electrical Engineering and Computer Science, Oregon State University; [anandt@oregonstate.edu](mailto:anandt@oregonstate.edu)
 * **Prof. David J. Allstot** — Distinguished Special Professor, Electrical and Computer Engineering, Carnegie Mellon University; [allstot@andrew.cmu.edu](mailto:allstot@andrew.cmu.edu)
+* **Prof. Hyungil Chae** — B.S. & M.S. Advisor, Electrical Engineering, Konkuk University
