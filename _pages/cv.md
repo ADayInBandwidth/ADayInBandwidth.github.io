@@ -66,10 +66,6 @@ Invited Talks
 
 Work Experience
 ======
-* **Part-time R&D Intern**, ARTEC IT Solutions APAC, Seoul, South Korea (Oct 2018 – June 2020)
-  * Developed applications using C# (.NET) in a Windows WPF (XAML) environment
-  * Managed a secure e-mail archiving system and developed an unstructured data archiving system for SAP
-  * Gained hands-on experience in Debian-based Linux server administration
 * **Full-time R&D Intern**, ARTEC IT Solutions AG, Frankfurt am Main, Hessen, Germany (Nov 2018 – Mar 2019)
   * Contributed to C# (.NET) development in a Windows WPF application environment
   * Developed SAP unstructured data archiving systems utilizing SAP Archive Link
@@ -84,4 +80,4 @@ References
 ======
 * **Prof. Tejasvi Anand** — Ph.D. Advisor, Electrical Engineering and Computer Science, Oregon State University; [anandt@oregonstate.edu](mailto:anandt@oregonstate.edu)
 * **Prof. David J. Allstot** — Distinguished Special Professor, Electrical and Computer Engineering, Carnegie Mellon University; [allstot@andrew.cmu.edu](mailto:allstot@andrew.cmu.edu)
-* **Prof. Hyungil Chae** — B.S. & M.S. Advisor, Electrical Engineering, Konkuk University
+* **Prof. Hyungil Chae** — B.S. & M.S. Advisor, Electrical Engineering, Konkuk University; [hichae@konkuk.ac.kr](mailto:hichae@konkuk.ac.kr)

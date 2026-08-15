@@ -9,18 +9,14 @@ author_profile: true
 
 <p>Selected chip design and research projects, listed by project number.</p>
 
+<p>Click a project to view its die photo and details.</p>
+
+<ul>
 {% assign ordered_portfolio = site.portfolio | sort: 'date' %}
 {% for post in ordered_portfolio %}
-  <div class="archive__item" style="margin-bottom: 2.5em;">
-    <h2 class="archive__item-title" style="margin-bottom: 0.15em;">
-      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    {% if post.tapeout %}
-      <p class="page__meta" style="margin-top: 0;"><i class="fa fa-fw fa-microchip" aria-hidden="true"></i> <strong>Taped-out:</strong> {{ post.tapeout }}</p>
-    {% endif %}
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" style="margin-top: 0.5em;">{{ post.excerpt | markdownify }}</p>
-    {% endif %}
-    <p style="margin-top: 0.4em;"><a href="{{ base_path }}{{ post.url }}">View project &rsaquo;</a></p>
-  </div>
+  <li style="margin-bottom: 0.6em;">
+    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+    {% if post.tapeout %}<span class="page__meta" style="margin-left: 0.4em;">(Taped-out: {{ post.tapeout }})</span>{% endif %}
+  </li>
 {% endfor %}
+</ul>
